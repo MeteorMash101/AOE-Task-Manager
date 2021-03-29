@@ -1,0 +1,49 @@
+/*
+// TEST CASE #1 (output pics)
+        adjList.addEdge(0, 1, 6, "a1"); // adds to (head index node, vertex it points to, activity duration, activity
+                                        // edge#)
+        adjList.addEdge(0, 2, 4, "a2");
+        adjList.addEdge(0, 3, 5, "a3");
+        adjList.addEdge(1, 4, 1, "a4");
+        adjList.addEdge(2, 4, 1, "a5");
+        adjList.addEdge(3, 5, 2, "a6");
+        adjList.addEdge(4, 6, 9, "a7");
+        adjList.addEdge(4, 7, 7, "a8");
+        adjList.addEdge(5, 7, 4, "a9");
+        adjList.addEdge(6, 8, 2, "a10");
+        adjList.addEdge(7, 8, 4, "a11");
+
+// TEST CASE #2 (output pics)
+        adjList.addEdge(0, 1, 6, "a1"); // adds to (head index node, vertex it points to, activity duration, activity
+                                        // edge#)
+        adjList.addEdge(0, 2, 4, "a2");
+        adjList.addEdge(0, 3, 5, "a3");
+        adjList.addEdge(1, 4, 1, "a4");
+        adjList.addEdge(2, 4, 1, "a5");
+        adjList.addEdge(3, 5, 2, "a6");
+        adjList.addEdge(4, 6, 9, "a7");
+        adjList.addEdge(4, 7, 7, "a8");
+        adjList.addEdge(5, 7, 4, "a9");
+        adjList.addEdge(6, 8, 2, "a10");
+        adjList.addEdge(7, 8, 4, "a11");
+        adjList.addEdge(8, 9, 1, "a12");
+        adjList.addEdge(8, 10, 1, "a13");
+        adjList.addEdge(9, 11, 1, "a14");
+        adjList.addEdge(10, 11, 1, "a15");
+
+// TEST CASE #3 (output pics)
+        adjList.addEdge(0, 1, 1, "a1"); // adds to (head index node, vertex it points to, activity duration, activity
+                                        // edge#)
+        adjList.addEdge(1, 2, 1, "a2");
+        adjList.addEdge(2, 3, 1, "a3");
+        adjList.addEdge(3, 0, 1, "a4");
+
+// TEST CASE #4 (output pics)
+        adjList.addEdge(0, 1, 6, "a1"); // adds to (head index node, vertex it points to, activity duration, activity
+                                        // edge#)
+        adjList.addEdge(0, 2, 5, "a2");
+        adjList.addEdge(1, 4, 8, "a3");
+        adjList.addEdge(2, 3, 5, "a4");
+        adjList.addEdge(1, 3, 5, "a5");
+        adjList.addEdge(3, 4, 2, "a6");        
+*/
